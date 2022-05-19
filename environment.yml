@@ -1,8 +1,6 @@
 name: dr-modeling
 channels:
-  - anaconda
   - conda-forge
-  - defaults
 dependencies:
   - python=3.8
   - pip
@@ -12,6 +10,7 @@ dependencies:
   - jupyterlab
   - notebook
   - ipython
+  - coincbc
   - pip:
-    - https://github.com/oemof/oemof-solph/archive/dev.zip
+    - oemof.solph
 

@@ -4,5 +4,5 @@ matplotlib
 jupyterlab
 notebook
 ipython
-https://github.com/oemof/oemof-solph/archive/dev.zip
+oemof.solph
 
